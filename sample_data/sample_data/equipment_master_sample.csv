@@ -1,6 +1,0 @@
-equipment_id,equipment_type,location,purchase_year,status
-EQ101,Excavator,Site_A,2020,Active
-EQ102,Loader,Site_B,2019,Active
-EQ103,Bulldozer,Site_A,2021,Active
-EQ104,Crane,Site_C,2018,Maintenance
-EQ105,DumpTruck,Site_B,2022,Active
