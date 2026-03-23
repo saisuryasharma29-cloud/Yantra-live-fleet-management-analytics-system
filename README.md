@@ -29,6 +29,69 @@ This project builds a reporting layer to support those decisions.
 * Power BI / QuickSight (Visualization-ready datasets)
 
 ---
+## Data Pipeline Architecture
+
+IoT Sensor Data  
+↓  
+equipment_usage telemetry tables  
+↓  
+aggregation queries (CTEs + reporting views)  
+↓  
+maintenance alert logic engine  
+↓  
+summary reporting dataset  
+↓  
+Power BI / QuickSight dashboards  
+
+This layered architecture ensures scalable analytics delivery for operational monitoring systems.
+
+---
+
+## Sample Data Model
+
+### equipment_usage
+
+- equipment_id
+- start_time
+- worked_hours
+- idle_hours
+- fuel_consumed
+
+### equipment_shift_log
+
+- equipment_id
+- shift_date
+- shift_hours
+- shift_id
+
+### maintenance_history
+
+- equipment_id
+- service_date
+- next_service_due_hours
+
+### hour_meter_readings
+
+- equipment_id
+- hmr_value
+
+---
+
+## KPIs Generated
+
+The reporting layer produces the following operational KPIs:
+
+- Equipment Utilization Percentage
+- Idle Time Ratio
+- Fuel Efficiency Index
+- Maintenance Alert Flags
+- Shift Productivity Metrics
+- Equipment Runtime Distribution
+- Service Threshold Monitoring Indicators
+
+These KPIs support operational, maintenance, and executive decision-making workflows.
+
+---
 
 ## Key Features
 
