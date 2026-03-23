@@ -47,6 +47,18 @@ This layered architecture ensures scalable analytics delivery for operational mo
 
 ---
 
+## End-to-End Reporting Workflow
+
+1. Collect telemetry from equipment IoT sensors
+2. Store raw activity logs in MySQL telemetry tables
+3. Aggregate runtime metrics using reporting-layer SQL views
+4. Detect maintenance thresholds using hour-meter readings
+5. Generate utilization KPIs
+6. Publish datasets to visualization tools
+7. Enable decision dashboards for operations teams
+
+---
+
 ## Sample Data Model
 
 ### equipment_usage
