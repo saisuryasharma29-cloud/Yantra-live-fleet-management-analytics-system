@@ -204,6 +204,33 @@ ORDER BY du.usage_date DESC, du.equipment_id;
 
 ---
 
+## Query Optimization Techniques Used
+
+To simulate production-scale reporting performance, the system applies:
+
+* CTE-based aggregation pipelines
+* Reporting-layer summary dataset generation
+* Null-safe calculations using NULLIF
+* Reduced join complexity using staged aggregations
+* Stored procedure–ready query architecture
+* Trigger-compatible reporting table refresh logic
+
+These techniques reduce dashboard latency and improve analytics reliability.
+
+## Scalability Considerations
+
+The analytics design supports high-frequency telemetry ingestion environments by:
+
+* minimizing repeated joins across raw telemetry tables
+* aggregating equipment metrics at reporting-layer views
+* enabling scheduled stored-procedure refresh cycles
+* supporting dashboard-ready datasets
+* preparing structured inputs for predictive maintenance systems
+
+This architecture scales effectively across thousands of equipment records per day.
+
+--
+
 ## Dashboard Insights
 
 * Idle vs Active Equipment Ratio
