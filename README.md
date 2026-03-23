@@ -317,4 +317,4 @@ fuel consumption prediction
 anomaly detection systems
 
 ## <ins>Result<ins>: 
-    Foundation for transitioning from descriptive analytics to predictive fleet intelligence.
+Foundation for transitioning from descriptive analytics to predictive fleet intelligence.
