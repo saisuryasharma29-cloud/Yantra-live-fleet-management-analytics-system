@@ -154,7 +154,7 @@ ORDER BY du.usage_date DESC, du.equipment_id;
 
 This analytics layer enables data-driven decision-making across operations, maintenance, fuel management, workforce productivity, and asset lifecycle planning.
 
-* Asset Utilization Optimization
+* <ins>Asset Utilization Optimization<ins>
 
 The system calculates daily utilization percentages per equipment, helping operations teams:
 
