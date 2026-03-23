@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Designed and optimized reporting pipelines for a simulated ## fleet management client YantraLive ## and predictive maintenance analytics platform handling 10,000+ equipment activity records daily.
+Designed and optimized reporting pipelines for a simulated fleet management client **YantraLive** and predictive maintenance analytics platform handling 10,000+ equipment activity records daily.
 
 This project demonstrates SQL optimization, stored procedure automation, and dashboard-ready dataset engineering similar to production-grade fleet intelligence platforms.
 
