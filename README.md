@@ -166,7 +166,7 @@ Increase ROI per machine across project locations
 
 Result: Reduced unnecessary rentals and improved fleet deployment strategy.
 
-* Idle-Time Reduction and Fuel Waste Control
+* <ins>Idle-Time Reduction and Fuel Waste Control<ins>
 
 Idle-time analytics highlight machines consuming fuel without productive output.
 
@@ -180,7 +180,7 @@ Identification of machines running outside scheduled shift windows
 
 Result: Lower fuel costs and improved environmental compliance.
 
-* Fuel Efficiency Monitoring and Engine Health Insights
+* <ins>Fuel Efficiency Monitoring and Engine Health Insights<ins>
 
 Fuel consumption vs working-hour comparisons help detect abnormal equipment performance.
 
@@ -194,7 +194,7 @@ Long-term fuel optimization strategies
 
 Result: Reduced operational fuel expenditure and improved machine reliability.
 
-* Predictive Maintenance Planning
+* <ins>Predictive Maintenance Planning<ins>
 
 Integration of hour-meter readings with service thresholds enables automated maintenance alerts.
 
@@ -209,7 +209,7 @@ Minimize project delays due to machine failure
 
 Result: Reduced downtime and improved maintenance scheduling efficiency.
 
-* Shift Productivity and Workforce Optimization
+* <ins>Shift Productivity and Workforce Optimization<ins>
 
 Shift-level analytics reveal performance variations across operators and working windows.
 
@@ -224,7 +224,7 @@ Increase utilization during peak productivity hours
 
 Result: Improved workforce efficiency and scheduling effectiveness.
 
-* Equipment Health Risk Detection
+* <ins>Equipment Health Risk Detection<ins>
 
 Continuous monitoring of utilization patterns enables early identification of abnormal machine behavior.
 
@@ -238,7 +238,7 @@ Extension of equipment service intervals through balanced usage
 
 Result: Lower breakdown probability and extended equipment lifecycle.
 
-* Centralized Reporting Layer for Analytics Dashboards
+* <ins>Centralized Reporting Layer for Analytics Dashboards<ins>
 
 The query architecture builds a unified reporting dataset for visualization tools.
 
@@ -252,7 +252,7 @@ Decision-making speed for operations managers
 
 Result: Faster executive insights with reduced reporting latency.
 
-* Geo-Based Fleet Deployment Optimization
+* <ins>Geo-Based Fleet Deployment Optimization<ins>
 
 When integrated with equipment GPS coordinates, utilization insights enable spatial intelligence.
 
@@ -266,7 +266,7 @@ Improved logistics coordination
 
 Result: Optimized fleet distribution across multiple operational zones.
 
-* Preventive Cost Control Across Fleet Operations
+* <ins>Preventive Cost Control Across Fleet Operations<ins>
 
 Operational analytics reduce multiple hidden cost components:
 
@@ -279,7 +279,7 @@ machine downtime penalties
 
 Result: Significant reduction in total fleet operating expenditure.
 
-* Executive KPI Monitoring Enablement
+* <ins>Executive KPI Monitoring Enablement<ins>
 
 This analytics dataset supports leadership dashboards tracking:
 
@@ -292,7 +292,7 @@ maintenance backlog indicators
 
 Result: Data-backed strategic planning and asset investment decisions.
 
-* Data Pipeline Automation for Reporting Workflows
+* <ins>Data Pipeline Automation for Reporting Workflows<ins>
 
 Automated stored procedures and reporting views reduce manual intervention.
 
@@ -306,7 +306,7 @@ scalable analytics infrastructure
 
 Result: Faster and more reliable reporting operations.
 
-* Support for Predictive Analytics Readiness
+* <ins>Support for Predictive Analytics Readiness<ins>
 
 Structured telemetry aggregation prepares datasets for future ML models such as:
 
@@ -316,4 +316,5 @@ utilization trend forecasting
 fuel consumption prediction
 anomaly detection systems
 
-Result: Foundation for transitioning from descriptive analytics to predictive fleet intelligence.
+## <ins>Result<ins>: 
+    Foundation for transitioning from descriptive analytics to predictive fleet intelligence.
