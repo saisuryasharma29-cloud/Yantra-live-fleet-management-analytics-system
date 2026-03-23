@@ -252,6 +252,20 @@ This architecture scales effectively across thousands of equipment records per d
 
 ---
 
+## Real-World Use Case Scenario
+
+A construction company operating 500+ machines across multiple sites uses this analytics system to:
+
+- monitor equipment utilization daily
+- detect idle fuel wastage
+- identify service-due assets automatically
+- compare shift productivity across operators
+- optimize fleet allocation across project regions
+
+This improves operational efficiency and reduces unexpected equipment downtime.
+
+---
+
 ## Business Impact
 
 This analytics layer enables data-driven decision-making across operations, maintenance, fuel management, workforce productivity, and asset lifecycle planning.
