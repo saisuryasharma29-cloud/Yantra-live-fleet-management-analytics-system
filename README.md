@@ -229,7 +229,7 @@ The analytics design supports high-frequency telemetry ingestion environments by
 
 This architecture scales effectively across thousands of equipment records per day.
 
---
+---
 
 ## Dashboard Insights
 
